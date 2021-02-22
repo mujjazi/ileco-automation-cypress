@@ -20,11 +20,11 @@
       "cy:run": "cypress run"
    },
    "homepage": "https://github.com/mujjazi/Cypress_Jenkins#readme",
-   "dependencies": {
-      "cypress": "^4.5.0"
-   },
+   "dependencies": {},
    "devDependencies": {
+      "cypress": "^6.5.0",
       "cypress-file-upload": "^4.0.7",
+      "cypress-wait-until": "^1.7.1",
       "cypress-xpath": "^1.6.0"
    }
 }
